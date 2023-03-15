@@ -2,6 +2,10 @@
 Perform inference on human arm in python and output joint coordinates in C# for motion retargeting of digital avatar. You can have a look at the demo video in this 
 repo for an idea.
 
+# Background
+TBC...
+
+# Setting up
 For Python:
 
 ver 3.8 or below (you can create a virtual environment for this and add it to your anaconda environment, I use python 3.8.12) The following version of the libraries need to be installed (remember to install it under the virtual environment)
